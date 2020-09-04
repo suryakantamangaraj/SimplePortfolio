@@ -1,0 +1,23 @@
+{
+  "name": "simpleportfolio",
+  "version": "1.0.0",
+  "description": "A simple and creative portipolio design with bootstrap",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suryakantamangaraj/SimplePortfolio.git"
+  },
+  "author": "Surya Raj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suryakantamangaraj/SimplePortfolio/issues"
+  },
+  "homepage": "https://github.com/suryakantamangaraj/SimplePortfolio#readme",
+  "dependencies": {
+    "bootstrap": "^5.0.0-alpha1",
+    "bootstrap-icons": "^1.0.0"
+  }
+}
