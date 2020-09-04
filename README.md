@@ -16,8 +16,6 @@
 <a href="https://github.com/suryakantamangaraj/SimplePortfolio/blob/master/LICENSE"><img src="https://img.shields.io/github/license/suryakantamangaraj/SimplePortfolio?color=brightgreen" alt="License Badge"/></a>
 
   <p align="center">
-    <a href="https://github.com/rammazzoti2000/personal_portfolio"><strong>Explore the docs »</strong></a>
-    <br />
     Loved the project? Please support it to improve!
     <br />
     <br />
@@ -30,3 +28,64 @@
 
 </div>
 
+<!-- TABLE OF CONTENTS -->
+## Contents
+
+* [About](#about)
+  * [Built With](#built-with)
+* [Usage](#usage)
+* [Automated Test](#automated-test)
+* [Author](#author)
+* [Contributing](#contributing)
+* [Acknowledgements](#acknowledgements)
+
+<!-- ABOUT THE PROJECT -->
+## About
+
+[![Product Name Screen Shot][product-screenshot]](https://suryakantamangaraj.github.io/SimplePortfolio)
+
+This project represents my personal Portfolio and features some of my github projects
+
+### Built with
+This project was built using these technologies.
+* JavaScript
+* Bootstrap
+* HTML
+* CSS3
+* Atom :atom:
+
+## Usage
+
+clone the repo with the following command on a linux terminal:
+
+```git clone https://github.com/suryakantamangaraj/SimplePortfolio.git```
+
+cd to the projects directory and open the index.html in your browser
+
+<!-- LIVE VERSION -->
+## Live version
+
+You can see it [here](https://suryakantamangaraj.github.io/SimplePortfolio)
+
+<!-- AUTOMATED TEST -->
+## Automated Test
+
+> There are no Automated Test for this project yet
+
+
+## :handshake: Contributing
+Contributions, issues and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/suryakantamangaraj/SimplePortfolio/issues).
+
+## Show your support
+
+Give a :star: if you like this project!
+
+<!-- ACKNOWLEDGEMENTS -->
+## Acknowledgements
+* [Bootstrap Documentation](https://getbootstrap.com/docs/4.3/getting-started/introduction/)
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[product-screenshot]: assets/capture.png
