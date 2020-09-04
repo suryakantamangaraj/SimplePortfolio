@@ -44,7 +44,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://suryakantamangaraj.github.io/SimplePortfolio)
 
-This project represents my personal Portfolio and features some of my github projects
+This is a simple and creative Portfolio design with bootstrap
 
 ### Built with
 This project was built using these technologies.
@@ -88,4 +88,4 @@ Give a :star: if you like this project!
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[product-screenshot]: assets/capture.png
+[product-screenshot]: assets/Capture.PNG
