@@ -1,6 +1,8 @@
 <h1 align="center">Github Profile Readme Templates</h1>
 <div align="center">
+
 <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
+<a href="https://github.com/suryakantamangaraj/SimplePortfolio/blob/master/LICENSE"><img src="https://img.shields.io/github/license/suryakantamangaraj/SimplePortfolio?color=brightgreen" alt="License Badge"/></a>
 </a><br>
 
   <p align="center">
@@ -13,7 +15,6 @@
 <a href="https://github.com/suryakantamangaraj/SimplePortfolio/pulls"><img src="https://img.shields.io/github/issues-pr/suryakantamangaraj/SimplePortfolio" alt="Pull Requests Badge"/></a>
 <a href="https://github.com/suryakantamangaraj/SimplePortfolio/issues"><img src="https://img.shields.io/github/issues/suryakantamangaraj/SimplePortfolio" alt="Issues Badge"/></a>
 <a href="https://github.com/suryakantamangaraj/SimplePortfolio/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/suryakantamangaraj/SimplePortfolio?color=2b9348"></a>
-<a href="https://github.com/suryakantamangaraj/SimplePortfolio/blob/master/LICENSE"><img src="https://img.shields.io/github/license/suryakantamangaraj/SimplePortfolio?color=brightgreen" alt="License Badge"/></a>
 
   <p align="center">
     Loved the project? Please support it to improve!
